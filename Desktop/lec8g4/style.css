@@ -7,8 +7,14 @@ p{
     text-align: center;
     font-size: 50px;
 }
+<<<<<<< HEAD
 
 
 nav{
     color: yellowgreen;
+=======
+div{
+    color: aquamarine;
+    font-size: large;
+>>>>>>> c7fb3b264d63e3ea4536a51fddffe0b4ce8659e6
 }
